@@ -1,2 +1,3 @@
 # mgis360-lemonicecubes
-Working Repo of MGIS360 lemon ice cubes  
+Lemon Ice Cubes is a hydration-focused frozen beverage concept built for performance-driven individuals. This repository contains the early-stage website prototype and branding foundation for a modern, electrolyte-based lemon cube product designed for convenience, clean ingredients, and direct-to-consumer scalability. 
+To run locally, clone the repository and open index.html in your browser or use a local development server (e.g., VS Code Live Server). The project is currently close to MVP stage and will evolve toward full e-commerce integration and analytics implementation. At the moment we just have the waitlist.
